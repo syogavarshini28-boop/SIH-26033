@@ -82,20 +82,8 @@ Implementation methodology:
 9. Payment processing – Buyers complete digital payments.
 10. Delivery tracking – Buyers track their orders until delivery.
 System workflow:
-Farmer / FPO Registration
-          |
-Upload Agricultural Products
-          |
-AI Price Prediction & Demand Forecasting
-          |
-Connect Farmers with Buyers
-          |
-Order Placement & Smart Logistics
-          |
-Optimized Delivery & Digital Payment
-          |
-Farmer Receives Better Price – Consumer Gets Lower Price
 
+<img width="1448" height="1086" alt="SIH" src="https://github.com/user-attachments/assets/bbd923d4-a324-42d2-8b6c-27714887d08a" />
 
 Working prototype modules:
 - Farmer dashboard
